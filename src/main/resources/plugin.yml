@@ -1,0 +1,31 @@
+name: EquiAdditions
+author: Heraldry
+main: main.java.me.heraldry.Main
+version: 1.0
+depend: [Vault]
+description: Additions for EquestriWorlds
+commands:
+   brushitem:
+      description: give brushingitems
+      aliases: [brushitems, brushingitems, brushingitem]
+      usage: /<command>
+   silentkick:
+      description: Silent kick a player
+      aliases: []
+      usage: /<command>
+   pack:
+      description: Shows the GUI with donator texturepacks
+      aliases: [packs, donorpacks, donatorpacks, texturepacks]
+      usage: /<command>
+   register:
+      description: Register password
+      aliases: []
+      usage: /<command>
+   login:
+      description: Login with password
+      aliases: []
+      usage: /<command>
+   passwordreset:
+      description: Login with password
+      aliases: [resetpassword]
+      usage: /<command>
