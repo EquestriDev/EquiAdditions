@@ -34,9 +34,7 @@ implements Listener {
             return;
         }
         Player player = (Player)event.getWhoClicked();
-        if (!player.getName().equals("Heraldry") && !player.getName().equals("Kellour")) {
-            return;
-        }
+        if (!player.isOp()) return;
         Inventory inventory = event.getClickedInventory();
         int slot = event.getSlot();
         ItemStack current = event.getCurrentItem();

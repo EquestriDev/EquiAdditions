@@ -15,7 +15,6 @@
  */
 package main.java.me.heraldry;
 
-import main.java.me.heraldry.Misc.Commands.silentKick;
 import main.java.me.heraldry.Misc.combineOres;
 import main.java.me.heraldry.Misc.heraldryClickInventory;
 import main.java.me.heraldry.Misc.worldGuardClick;
@@ -45,7 +44,6 @@ extends JavaPlugin {
 
     public void onEnable() {
         this.eventRegister(this.getServer().getPluginManager());
-        silentKick.fillMessages();
         this.commandRegister();
         if (!this.setupEconomy()) {
             this.onDisable();
@@ -86,7 +84,6 @@ extends JavaPlugin {
 
     private void commandRegister() {
         this.getCommand("brushitem").setExecutor((CommandExecutor)new BrushingItemCommand());
-        this.getCommand("silentkick").setExecutor((CommandExecutor)new silentKick());
         this.getCommand("pack").setExecutor((CommandExecutor)new texturepackInventory());
         this.getCommand("register").setExecutor((CommandExecutor)new registerCommand());
         this.getCommand("login").setExecutor((CommandExecutor)new loginCommand());
