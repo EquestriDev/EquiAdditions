@@ -1,7 +1,5 @@
 package main.java.me.heraldry;
 
-import main.java.me.heraldry.Misc.combineOres;
-import main.java.me.heraldry.Misc.heraldryClickInventory;
 import main.java.me.heraldry.Misc.worldGuardClick;
 import main.java.me.heraldry.Passwords.Commands.loginCommand;
 import main.java.me.heraldry.Passwords.Commands.registerCommand;
@@ -62,8 +60,6 @@ extends JavaPlugin {
         pm.registerEvents((Listener)new playerLogin(), (Plugin)this);
         pm.registerEvents((Listener)new inventoryClickEvent(), (Plugin)this);
         pm.registerEvents((Listener)new playerListeners(), (Plugin)this);
-        pm.registerEvents((Listener)new combineOres(), (Plugin)this);
-        pm.registerEvents((Listener)new heraldryClickInventory(), (Plugin)this);
         pm.registerEvents((Listener)new worldGuardClick(), (Plugin)this);
     }
 

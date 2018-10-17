@@ -10,6 +10,9 @@ import org.bukkit.configuration.MemoryConfigurationOptions;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.configuration.file.YamlConfigurationOptions;
 
+/**
+ * Abstraction for passwords.yml
+ */
 public class passwordsConfig
 extends YamlConfiguration {
     File file = new File("./plugins/EquiAdditions/passwords.yml");

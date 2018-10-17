@@ -7,6 +7,9 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
+/**
+ * Create chest GUI for texturepackInventory
+ */
 public class InventoryCreation {
     public Inventory inventory;
 

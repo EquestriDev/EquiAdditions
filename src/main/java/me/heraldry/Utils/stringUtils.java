@@ -8,6 +8,9 @@ import javax.crypto.spec.PBEKeySpec;
 import org.apache.commons.codec.binary.Base64;
 import org.bukkit.ChatColor;
 
+/**
+ * Password hashing and checking.
+ */
 public class stringUtils {
     private static final int iterations = 100;
     private static final int saltLen = 32;

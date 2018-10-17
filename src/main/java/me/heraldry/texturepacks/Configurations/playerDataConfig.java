@@ -10,6 +10,9 @@ import org.bukkit.configuration.MemoryConfigurationOptions;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.configuration.file.YamlConfigurationOptions;
 
+/**
+ * Abstraction for playerdata.yml which stores texturepack prefs
+ */
 public class playerDataConfig
 extends YamlConfiguration {
     private File file = new File("./plugins/EquiAdditions/playerdata.yml");

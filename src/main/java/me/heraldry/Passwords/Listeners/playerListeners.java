@@ -96,9 +96,4 @@ implements Listener {
             event.setCancelled(true);
         }
     }
-
-    public void onInteractEntity(PlayerInteractEntityEvent event) {
-        event.setCancelled(true);
-    }
-
 }

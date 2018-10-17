@@ -23,6 +23,11 @@ import org.bukkit.inventory.PlayerInventory;
 import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.inventory.meta.LeatherArmorMeta;
 
+/**
+ * /brushitem PLAYER NUMBER
+ * Spawn in a brush item.
+ * Presumably used in the shop at /warp kellourco
+ */
 public class BrushingItemCommand
 implements CommandExecutor {
     public boolean onCommand(CommandSender commandSender, Command command, String s, String[] args) {

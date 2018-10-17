@@ -18,6 +18,9 @@ import org.bukkit.inventory.ItemFlag;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
+/**
+ * Uses name to identify the correct inventory.
+ */
 public class inventoryClickEvent
 implements Listener {
     private storageUtils storage = new storageUtils();

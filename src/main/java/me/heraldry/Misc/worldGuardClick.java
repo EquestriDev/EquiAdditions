@@ -16,6 +16,9 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.PluginManager;
 
+/**
+ * Protects region "kellourco" from hopper access for some reason.
+ */
 public class worldGuardClick
 implements Listener {
     @EventHandler

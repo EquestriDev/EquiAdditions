@@ -24,6 +24,9 @@ import org.bukkit.inventory.ItemFlag;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
+/**
+ * Command: /pack
+ */
 public class texturepackInventory
 implements CommandExecutor {
     private InventoryCreation inventoryCreation = new InventoryCreation();

@@ -1,0 +1,22 @@
+   77 src/main/java/me/heraldry/Main.java // Plugin class
+  329 src/main/java/me/heraldry/brushingItems/BrushingItemCommand.java // Spawn in brushing items
+   27 src/main/java/me/heraldry/Utils/crosstiesUtils.java // Unused; removed
+   42 src/main/java/me/heraldry/Utils/stringUtils.java // Password hashing and checking.
+  113 src/main/java/me/heraldry/Utils/brushingUtils.java // Unused; removed
+   85 src/main/java/me/heraldry/Utils/hoofPickUtils.java // Unused; removed
+   62 src/main/java/me/heraldry/Utils/texturepacksUtils.java // Quick resource packs setters, name => URL
+   54 src/main/java/me/heraldry/Utils/storageUtils.java // Storage for passwords and texturepack preferences
+   77 src/main/java/me/heraldry/texturepacks/Inventories/InventoryCreation.java // Create chest GUI for texturepackInventory
+   43 src/main/java/me/heraldry/texturepacks/Configurations/playerDataConfig.java // Abstraction for playerdata.yml which stores texturepack prefs
+   57 src/main/java/me/heraldry/texturepacks/Listeners/inventoryClickEvent.java // Name based inventory click responder.
+   28 src/main/java/me/heraldry/texturepacks/Listeners/playerLogin.java // Set stored texture pack
+   69 src/main/java/me/heraldry/texturepacks/texturepackInventory.java // Command: /pack
+   34 src/main/java/me/heraldry/Misc/combineOres.java // Combines diamond ores when moved or something. Terribly coded; removed.
+   50 src/main/java/me/heraldry/Misc/worldGuardClick.java // Protects a certain region from hopper access for some reason.
+   49 src/main/java/me/heraldry/Misc/heraldryClickInventory.java // Probably intended to let Heraldry override some click protections. Removed.
+   43 src/main/java/me/heraldry/Passwords/Configurations/passwordsConfig.java // Abstraction for passwords.yml
+  104 src/main/java/me/heraldry/Passwords/Listeners/playerListeners.java // Password login check
+   68 src/main/java/me/heraldry/Passwords/Commands/loginCommand.java // Password login check
+   54 src/main/java/me/heraldry/Passwords/Commands/resetPlayerCommand.java // Reset password
+   60 src/main/java/me/heraldry/Passwords/Commands/registerCommand.java // Register password
+ 1525 total
