@@ -1,19 +1,3 @@
-/*
- * Decompiled with CFR 0_133.
- * 
- * Could not load the following classes:
- *  org.bukkit.ChatColor
- *  org.bukkit.enchantments.Enchantment
- *  org.bukkit.entity.HumanEntity
- *  org.bukkit.entity.Player
- *  org.bukkit.event.EventHandler
- *  org.bukkit.event.Listener
- *  org.bukkit.event.inventory.InventoryClickEvent
- *  org.bukkit.inventory.Inventory
- *  org.bukkit.inventory.ItemFlag
- *  org.bukkit.inventory.ItemStack
- *  org.bukkit.inventory.meta.ItemMeta
- */
 package main.java.me.heraldry.texturepacks.Listeners;
 
 import java.util.List;

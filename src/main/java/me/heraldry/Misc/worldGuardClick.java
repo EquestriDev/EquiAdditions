@@ -1,23 +1,3 @@
-/*
- * Decompiled with CFR 0_133.
- * 
- * Could not load the following classes:
- *  com.sk89q.worldguard.LocalPlayer
- *  com.sk89q.worldguard.bukkit.WorldGuardPlugin
- *  com.sk89q.worldguard.protection.managers.RegionManager
- *  com.sk89q.worldguard.protection.regions.ProtectedRegion
- *  org.bukkit.Bukkit
- *  org.bukkit.World
- *  org.bukkit.entity.HumanEntity
- *  org.bukkit.entity.Player
- *  org.bukkit.event.EventHandler
- *  org.bukkit.event.Listener
- *  org.bukkit.event.inventory.InventoryClickEvent
- *  org.bukkit.event.inventory.InventoryType
- *  org.bukkit.inventory.Inventory
- *  org.bukkit.plugin.Plugin
- *  org.bukkit.plugin.PluginManager
- */
 package main.java.me.heraldry.Misc;
 
 import com.sk89q.worldguard.LocalPlayer;

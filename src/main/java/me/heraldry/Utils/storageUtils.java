@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0_133.
- */
 package main.java.me.heraldry.Utils;
 
 import main.java.me.heraldry.Passwords.Configurations.passwordsConfig;

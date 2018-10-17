@@ -1,13 +1,3 @@
-/*
- * Decompiled with CFR 0_133.
- * 
- * Could not load the following classes:
- *  org.bukkit.Effect
- *  org.bukkit.Location
- *  org.bukkit.World
- *  org.bukkit.entity.Entity
- *  org.bukkit.entity.Player
- */
 package main.java.me.heraldry.Utils;
 
 import java.util.HashMap;

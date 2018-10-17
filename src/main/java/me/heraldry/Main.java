@@ -1,18 +1,3 @@
-/*
- * Decompiled with CFR 0_133.
- * 
- * Could not load the following classes:
- *  net.milkbowl.vault.economy.Economy
- *  org.bukkit.Server
- *  org.bukkit.command.CommandExecutor
- *  org.bukkit.command.PluginCommand
- *  org.bukkit.event.Listener
- *  org.bukkit.plugin.Plugin
- *  org.bukkit.plugin.PluginManager
- *  org.bukkit.plugin.RegisteredServiceProvider
- *  org.bukkit.plugin.ServicesManager
- *  org.bukkit.plugin.java.JavaPlugin
- */
 package main.java.me.heraldry;
 
 import main.java.me.heraldry.Misc.combineOres;

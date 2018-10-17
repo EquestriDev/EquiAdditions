@@ -1,13 +1,3 @@
-/*
- * Decompiled with CFR 0_133.
- * 
- * Could not load the following classes:
- *  org.bukkit.Bukkit
- *  org.bukkit.configuration.InvalidConfigurationException
- *  org.bukkit.configuration.MemoryConfigurationOptions
- *  org.bukkit.configuration.file.YamlConfiguration
- *  org.bukkit.configuration.file.YamlConfigurationOptions
- */
 package main.java.me.heraldry.texturepacks.Configurations;
 
 import java.io.File;

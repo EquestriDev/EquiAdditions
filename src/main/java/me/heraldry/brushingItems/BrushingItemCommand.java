@@ -1,26 +1,3 @@
-/*
- * Decompiled with CFR 0_133.
- * 
- * Could not load the following classes:
- *  net.milkbowl.vault.economy.Economy
- *  net.milkbowl.vault.economy.EconomyResponse
- *  net.minecraft.server.v1_12_R1.ItemStack
- *  net.minecraft.server.v1_12_R1.NBTTagCompound
- *  org.bukkit.Bukkit
- *  org.bukkit.ChatColor
- *  org.bukkit.Color
- *  org.bukkit.Material
- *  org.bukkit.OfflinePlayer
- *  org.bukkit.command.Command
- *  org.bukkit.command.CommandExecutor
- *  org.bukkit.command.CommandSender
- *  org.bukkit.craftbukkit.v1_12_R1.inventory.CraftItemStack
- *  org.bukkit.entity.Player
- *  org.bukkit.inventory.ItemStack
- *  org.bukkit.inventory.PlayerInventory
- *  org.bukkit.inventory.meta.ItemMeta
- *  org.bukkit.inventory.meta.LeatherArmorMeta
- */
 package main.java.me.heraldry.brushingItems;
 
 import java.util.Collections;

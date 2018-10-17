@@ -1,10 +1,3 @@
-/*
- * Decompiled with CFR 0_133.
- * 
- * Could not load the following classes:
- *  org.apache.commons.codec.binary.Base64
- *  org.bukkit.ChatColor
- */
 package main.java.me.heraldry.Utils;
 
 import java.security.SecureRandom;
